@@ -1,26 +1,23 @@
-# Daily Codebase
+# Daily Code Log
 
-Daily Codebase is a collection of code snippets and examples for common programming problems that i have solved. Use this repository to improve your coding skills and learn new programming concepts.
+This is a repository where I keep a daily log of the code that I submit to different coding platforms. This log serves as a way to track my progress, identify areas for improvement, and share my experiences with others.
+
+## Structure
+
+The repository is organized into daily logs, with each log representing a single day. Within each daily log, I include the following information:
+
+- The date
+- The coding platforms that I submitted code to (with problem link)
+- The problems that I solved or the projects that I worked on
+- Any insights or reflections that I have about it / Alternate Approach
 
 ## Usage
 
-Each code snippet is organized into its own directory, with a brief description of what it does. To use a code snippet:
-
-1. Navigate to the appropriate directory.
-2. Open the code file in your preferred text editor.
-3. Read the comments and code to understand how it works.
-4. Copy and paste the code into your own project.
+Feel free to use this repository as a source of inspiration for your own coding journey. You can browse through my daily logs to see the problems that I've solved, the platforms that I've used, and the insights that I've gained.
 
 ## Contributing
 
-Contributions are welcome! If you have a code snippet or example that you'd like to share, please follow these steps:
-
-1. Fork the repository to your own GitHub account.
-2. Create a new branch with a descriptive name.
-3. Add your code snippet to the appropriate directory, with a brief description of what it does.
-4. Commit your changes and push your branch to your forked repository.
-5. Open a pull request from your branch to the original repository's `main` branch.
-6. Wait for feedback or approval from the project maintainers.
+Contributions are welcome! If you have any suggestions or feedback about my daily logs, please feel free to open an issue or a pull request.
 
 ## License
 

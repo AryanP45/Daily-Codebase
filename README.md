@@ -2,14 +2,11 @@
 <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47w1n08uovhxjpbgx4zphsxbnzdcx0zueg0ou2lntx&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 </center> -->
 <p align="center">
-<img src="./assets/intro.gif" width="700px" height="500px">
+<img src="./assets/intro.gif" width="700px" height="300px">
 </p>
 
 # Daily Code Log
 
-<p align="center">
-<img  src="./assets/code-log.gif" width="180px">
-</p>
 This is a repository where I keep a daily log of the code that I submit to different coding platforms. This log serves as a way to track my progress, identify areas for improvement, and share my experiences with others.
 <br>        
 

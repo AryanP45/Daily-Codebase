@@ -1,17 +1,17 @@
 <!-- <center>
 <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47w1n08uovhxjpbgx4zphsxbnzdcx0zueg0ou2lntx&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 </center> -->
-<center>
-<img src="https://i.gifer.com/UF47.gif">
-</center>
-
-<center>
-<img style="float: right;" src="https://i.gifer.com/6Hmb.gif">
-</center>
+<p align="center">
+<img src="./assets/intro.gif" width="700px" height="500px">
+</p>
 
 # Daily Code Log
 
+<p align="center">
+<img  src="./assets/code-log.gif" width="180px">
+</p>
 This is a repository where I keep a daily log of the code that I submit to different coding platforms. This log serves as a way to track my progress, identify areas for improvement, and share my experiences with others.
+<br>        
 
 ## Structure
 
@@ -29,14 +29,11 @@ Feel free to use this repository as a source of inspiration for your own coding 
 
 ## Contributing
 
-Contributions are welcome! If you have any suggestions or feedback about my daily logs, please feel free to open an issue or a pull request.
-  
-   
-<br>        
-<center>
-<img style="float: right;" src="https://i.gifer.com/2MgN.gif">
-</center>
+Contributions are welcome! If you have any suggestions or feedback about my daily logs, please feel free to open an issue or a pull request.   
 
 ## License
+<p align="center">
+<img  src="./assets/lisence.gif" width="300px">
+</p>
 
 This repository is licensed under the [GNU Affero General Public License v3.0](https://www.gnu.org/licenses/agpl-3.0.en.html), which means that you're free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the code, but with certain restrictions and requirements, such as providing the source code and any modifications under the same license.

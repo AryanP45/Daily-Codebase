@@ -5,6 +5,17 @@
 <img src="./assets/intro.gif" width="700px" height="300px">
 </p>
 
+<h1 align="center">
+
+![GitHub followers](https://img.shields.io/github/followers/AryanP45?color=Blue&style=social)
+![GitHub forks](https://img.shields.io/github/forks/AryanP45/Daily-Codebase?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/AryanP45/Daily-Codebase?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/AryanP45/Daily-Codebase?style=social)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)  
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/AryanP45/Daily-Codebase)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/Aryanp45/Daily-Codebase?label=Pull%20Requests)
+![GitHub issues](https://img.shields.io/github/issues/Aryanp45/Daily-Codebase?label=Issues)
+
 # Daily Code Log
 
 This is a repository where I keep a daily log of the code that I submit to different coding platforms. This log serves as a way to track my progress, identify areas for improvement, and share my experiences with others.
